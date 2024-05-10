@@ -4,7 +4,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://psxjoy.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=System.out.println(%22Hello+World!%22);psxjoy&center=true" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=System.out.println(%22Hello+World!%22)&center=true" alt="Typing SVG" />
     </a>
   </div>
 
@@ -25,7 +25,7 @@
 
 <!-- 个人简介 -->
 - 👋 Hi, I’m @psxjoy
-- 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
-- 🌱 I’m currently learning database, AI,Chrome plug -in development.
-- 💞️ I’m looking to collaborate on article synchronization assistant.
-- 📫 How to reach me? Email: psxjoy@163.com
+- 👀 I’m interested in Java, server development, database, computer network, operating system, etc.
+- 🌱 I’m currently learning AI and Chrome plug-in development.
+- 💞️ I’m looking for bigger challenges or better job opportunities.
+- 📫 How to reach me? Email: psxjoy@outlook.com
