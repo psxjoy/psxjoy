@@ -13,9 +13,6 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://juejin.cn/user/1626932938025735"><img src="https://img.shields.io/badge/Juejin-掘金-blue" /></a>&emsp;
-    <a href="https://blog.csdn.net/ElegantOfKing"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=psxjoy&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 <p><b>Technology has the power to make the world a better place</b></p>
