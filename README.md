@@ -12,16 +12,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=psxjoy" /><br>
 
   <!-- profile logo 个人资料徽标 -->
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=psxjoy&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-<p><b>Technology has the power to make the world a better place</b></p>
+    
+<p><b>Technology has the power to make the world a better place.</b></p>
 </div>
 
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
-- 👋 Hi, I’m @psxjoy
+- 👋 Hi, I’m @psxjoy <img src="https://komarev.com/ghpvc/?username=psxjoy&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 - 👀 I’m interested in Java, server development, database, computer network, operating system, etc.
 - 🌱 I’m currently learning AI and Chrome plug-in development.
 - 💞️ I’m looking for bigger challenges or better job opportunities.
