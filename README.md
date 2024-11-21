@@ -24,4 +24,4 @@
 - 🤖 I'm an outside collaborator of [alibaba/easyexcel](https://github.com/alibaba/easyexcel)
 - 🌱 I’m currently learning AI and Chrome plug-in development.
 - 💞️ I’m looking for bigger challenges or better job opportunities.
-- 📫 How to reach me? Email: psxjoy@outlook.com
+- 📫 How to reach me? Email: psxjoy@gmail.com
