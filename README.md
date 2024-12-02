@@ -21,7 +21,7 @@
 <!-- 个人简介 -->
 - 👋 Hi, I’m @psxjoy <img src="https://komarev.com/ghpvc/?username=psxjoy&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 - 👀 I’m interested in Java, server development, database, computer network, operating system, etc.
-- 🤖 I'm an outside collaborator of [alibaba/easyexcel](https://github.com/alibaba/easyexcel) and [CodePhiliaX/fastexcel](https://github.com/CodePhiliaX/fastexcel)
+- 🤖 I'm an outside collaborator of [easyexcel](https://github.com/alibaba/easyexcel) and [fastexcel](https://github.com/CodePhiliaX/fastexcel).
 - 🌱 I’m currently learning AI and Chrome plug-in development.
 - 💞️ I’m looking for bigger challenges or better job opportunities.
 - 📫 How to reach me? Email: psxjoy@gmail.com
