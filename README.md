@@ -25,4 +25,6 @@
 - 🤖 I'm an outside collaborator of [easyexcel](https://github.com/alibaba/easyexcel) and [fastexcel](https://github.com/fast-excel/fastexcel).
 - 🌱 I’m currently learning AI and Chrome plug-in development.
 - 💞️ I’m looking for bigger challenges or better job opportunities.
-- 📫 How to reach me? Email: psxjoy@apache.org
+- ⏰ **Active Hours**: Weekdays 19:00–24:00 (GMT+8) and holidays
+- 📬 **Notifications**: I monitor GitHub notification emails regularly and respond as soon as possible.
+- ⚠ **For urgent matters, feel free to mention me — I won't miss it.**
