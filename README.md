@@ -21,7 +21,8 @@
 <!-- 个人简介 -->
 - 👋 Hi, I’m @psxjoy <img src="https://komarev.com/ghpvc/?username=psxjoy&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 - 👀 I’m interested in Java, server development, databases, computer networks, operating systems, etc.
-- 📡 I'm an Apache committer of [Apache/OzHera](https://github.com/apache/ozhera) and PPMC member of [Apache/fesod](https://github.com/apache/fesod).
+- 📡 I'm an Apache committer of [Apache/ozhera](https://github.com/apache/ozhera) and [Apache/seata](https://github.com/apache/incubator-seata)
+- 📡 I'm an Apache PPMC member of [Apache/fesod](https://github.com/apache/fesod).
 - 🤖 I'm an outside collaborator of [easyexcel](https://github.com/alibaba/easyexcel) and [fastexcel](https://github.com/fast-excel/fastexcel).
 - 🌱 I’m currently learning AI and Chrome plug-in development.
 - 💞️ I’m looking for bigger challenges or better job opportunities.
