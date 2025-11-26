@@ -1,25 +1,26 @@
+<h1 align="center"> Hi 👋, I'm psxjoy</h1>
+<h3 align="center">A Java/AI developer from HANGZHOU,CHINA</h3>
 
-<div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://psxjoy.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=System.out.println(%22Hello+World!%22)&center=true" alt="Typing SVG" />
-    </a>
-  </div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=psxjoy&label=Profile%20views&color=0e75b6&style=flat" alt="psxjoy" />
+  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&labelColor=282c34&color=E5FFCC&query=$.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dpsxjoy%26longCache%3Dtrue"/>
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=psxjoy" /><br>
+</p>
 
-  <!-- profile logo 个人资料徽标 -->
-    
-<p><b>Technology has the power to make the world a better place.</b></p>
-</div>
+<!-- Copy-paste in your Readme.md file -->
 
-## Hi! Nice to meet you!
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10711694" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10711694&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @psxjoy" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10711694&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+-----------
 
 <!-- 个人简介 -->
-- 👋 Hi, I’m @psxjoy <img src="https://komarev.com/ghpvc/?username=psxjoy&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 - 👀 I’m interested in Java, server development, databases, computer networks, operating systems, etc.
 - 📡 I'm an Apache PPMC member of [Apache/fesod](https://github.com/apache/fesod).
 - 📡 I'm an Apache committer of [Apache/ozhera](https://github.com/apache/ozhera) and [Apache/seata](https://github.com/apache/incubator-seata)
@@ -29,3 +30,5 @@
 - ⏰ **Active Hours**: Weekdays 19:00–24:00 (GMT+8) and holidays
 - 📬 **Notifications**: I monitor GitHub notification emails regularly and respond as soon as possible.
 - ⚠ **For urgent matters, feel free to mention me — I won't miss it.**
+
+
