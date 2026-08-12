@@ -42,8 +42,6 @@ I also regularly speak at open-source and developer conferences, sharing practic
 
 ## Public Speaking
 
-## Public Speaking
-
 I speak at open-source and developer conferences, sharing practical experience in Apache project incubation, releases, and community governance.
 
 🎤 [View my talks and speaker profile on Sessionize](https://sessionize.com/shu-xin-pan/)
