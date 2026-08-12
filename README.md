@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm psxjoy</h1>
-<h3 align="center">A Java/AI developer from HANGZHOU,CHINA</h3>
+<h3 align="center">A Java and AI developer based in Hangzhou, China.</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=psxjoy&label=Profile%20views&color=0e75b6&style=flat" alt="psxjoy" />
