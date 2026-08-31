@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Shuxin Pan 👋</h1>
+<h1 align="center">Shuxin Pan</h1>
 
 <p align="center">
-  <strong>Apache Committer · Open-Source Maintainer · Conference Speaker · Java & AI Engineer</strong>
+  <strong>Apache PPMC Member & Committer · AI Infrastructure & Developer Tools</strong>
 </p>
 
 <p align="center">
-  Building reliable developer infrastructure and sustainable open-source communities.
+  I build reliable developer infrastructure across Java, distributed systems, AI agents, and sustainable open-source communities.
 </p>
 
 <p align="center">
@@ -17,45 +17,41 @@
 
 ---
 
-## About Me
+## What I Do
 
-I'm a software engineer based in Hangzhou, China, focused on **Java**, **distributed systems**, **developer tools**, and **AI**.
+I work at the intersection of **open-source stewardship** and **production infrastructure**. My focus is not only shipping code, but also building the engineering and community systems that keep projects reliable over time.
 
-Beyond writing code, I contribute to the parts of open source that keep projects healthy and sustainable—including community collaboration, release management, security response, licensing, project incubation, and long-term governance.
+- Design and maintain high-performance Java libraries and distributed systems
+- Build AI-native infrastructure for agents, memory, data, storage, and authentication
+- Lead open-source releases, security response, compliance, and project incubation
+- Review architecture and code while helping contributors become maintainers
 
-I also regularly speak at open-source and developer conferences, sharing practical experience from maintaining projects and participating in Apache communities.
+## Open-Source Leadership
 
-## Open-Source Roles
+| Project | Role | Focus |
+| --- | --- | --- |
+| [Apache Fesod (Incubating)](https://github.com/apache/fesod) | PPMC Member | High-performance spreadsheet processing without large-file OOM failures |
+| [Apache OzHera](https://github.com/apache/ozhera) | Committer | Cloud-native application observability |
+| [Apache Seata](https://github.com/apache/incubator-seata) | Committer | Distributed transaction infrastructure |
+| [EasyExcel](https://github.com/alibaba/easyexcel) | Core Maintainer | Java spreadsheet ecosystem and large-file processing |
 
-* 📡 PPMC Member of [Apache Fesod (Incubating)](https://github.com/apache/fesod)
-* 📡 Committer of [Apache OzHera](https://github.com/apache/ozhera)
-* 📡 Committer of [Apache Seata](https://github.com/apache/incubator-seata)
-* 🤖 Core Maintainer of [EasyExcel](https://github.com/alibaba/easyexcel) and [FastExcel](https://github.com/fast-excel/fastexcel)
+My open-source work also covers release management, security response, licensing, Apache incubation, contributor review, and long-term community governance.
 
-## Areas of Focus
+## Building at the Java × AI Boundary
 
-* High-performance Java libraries and developer infrastructure
-* Distributed systems, databases, and cloud-native technologies
-* Apache project incubation and community governance
-* Open-source releases, compliance, licensing, and security response
-* AI agents, memory systems, and AI-native developer tools
+I am applying lessons from distributed systems and open-source maintenance to the next generation of AI-native developer infrastructure.
 
-## Public Speaking
+- [Nubase](https://github.com/OtterMind/Nubase) — a self-hostable backend for AI-generated applications, combining Memory, Database, Storage, and Auth
+- [py-coding-agent](https://github.com/psxjoy/py-coding-agent) — a compact terminal coding agent exploring tool use, agent loops, and context management
+- AI memory systems, Java-based AI applications, and reliable agent execution
 
-I speak at open-source and developer conferences, sharing practical experience in Apache project incubation, releases, and community governance.
+The goal is simple: make AI-generated software easier to operate, inspect, secure, and evolve.
 
-🎤 [View my talks and speaker profile on Sessionize](https://sessionize.com/shu-xin-pan/)
+## Speaking & Community
 
-## Currently Exploring
+I speak at open-source and developer conferences about Apache project incubation, releases, community governance, Java infrastructure, and practical AI engineering.
 
-I'm currently building and experimenting with:
-
-* AI coding agents
-* LLM memory systems
-* Java-based AI applications
-* Browser extensions and developer tools
-
-My goal is to connect my experience in Java, distributed systems, and open source with the next generation of AI-native developer infrastructure.
+View my talks and speaker profile on [Sessionize](https://sessionize.com/shu-xin-pan/).
 
 ## Open-Source Activity
 
@@ -74,10 +70,10 @@ My goal is to connect my experience in Java, distributed systems, and open sourc
 
 ## Connect
 
-* 🌐 Website: [psxjoy.com](https://psxjoy.com)
-* 🎤 Speaking: [Sessionize](https://sessionize.com/shu-xin-pan/)
-* 🐦 X: [@psxjoy](https://x.com/psxjoy)
-* 💼 LinkedIn: [Shuxin Pan](https://www.linkedin.com/in/shu-xin-pan/)
-* 📧 Email: [psxjoy@apache.org](mailto:psxjoy@apache.org)
+- Website: [psxjoy.com](https://psxjoy.com)
+- Speaking: [Sessionize](https://sessionize.com/shu-xin-pan/)
+- X: [@psxjoy](https://x.com/psxjoy)
+- LinkedIn: [Shuxin Pan](https://www.linkedin.com/in/shu-xin-pan/)
+- Email: [psxjoy@apache.org](mailto:psxjoy@apache.org)
 
-I'm always open to meaningful technical discussions, open-source collaboration, speaking opportunities, and bigger challenges.
+I am always open to meaningful technical discussions, open-source collaboration, speaking opportunities, and ambitious infrastructure challenges.
