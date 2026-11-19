@@ -1,28 +1,59 @@
-# Shuxin Pan
+<h1 align="center">Shuxin Pan</h1>
 
-**Apache Fesod PMC Chair · Java and AI infrastructure**
+<p align="center">
+  <strong>Apache Fesod PMC Chair & Committer · AI Infrastructure & Developer Tools</strong>
+</p>
 
-I work on Java libraries that read and write large spreadsheets, and on infrastructure that gives AI applications memory and storage.
+<p align="center">
+  I build reliable developer infrastructure across Java, distributed systems, AI agents, and sustainable open-source communities.
+</p>
 
-## Apache and open source
+<p align="center">
+  <a href="https://psxjoy.com">Website</a> ·
+  <a href="https://sessionize.com/shu-xin-pan/">Speaking</a> ·
+  <a href="https://x.com/psxjoy">X</a> ·
+  <a href="https://www.linkedin.com/in/shu-xin-pan/">LinkedIn</a>
+</p>
 
-[Apache Fesod](https://github.com/apache/fesod) became an Apache top-level project in November 2026. I chair its Project Management Committee. Fesod reads and writes Excel files with a small memory footprint. Alongside code review, I work on the details that go into a release, such as [crediting upstream code in our source distribution](https://github.com/apache/fesod/pull/1331).
+---
 
-I'm also a committer on [Apache OzHera](https://github.com/apache/ozhera), which helps teams observe running applications, and [Apache Seata](https://github.com/apache/incubator-seata), which handles distributed transactions. I'm a core maintainer of [EasyExcel](https://github.com/alibaba/easyexcel).
+## What I Do
 
-## AI infrastructure
+I work at the intersection of **open-source stewardship** and **production infrastructure**. My focus is not only shipping code, but also building the engineering and community systems that keep projects reliable over time.
 
-- **[Nubase](https://github.com/OtterMind/Nubase)** gives AI applications a self-hosted backend for memory, databases, storage, and authentication. One part I've worked on is [preventing initialization jobs from interfering across versions](https://github.com/OtterMind/Nubase/commit/f9d571586dab479b5b077a3bf6a0c42ffbd897bf).
-- **[py-coding-agent](https://github.com/psxjoy/py-coding-agent)** is my small Python terminal agent. Its code shows how the agent calls a tool, adds the result to its context, and decides what to do next.
+- Design and maintain high-performance Java libraries and distributed systems
+- Build AI-native infrastructure for agents, memory, data, storage, and authentication
+- Lead open-source releases, security response, compliance, and project incubation
+- Review architecture and code while helping contributors become maintainers
 
-## Talks and contact
+## Open-Source Leadership
 
-I speak about Apache incubation, release reviews, and community governance. You can [browse my talks](https://sessionize.com/shu-xin-pan/) or [email me](mailto:psxjoy@apache.org) about a project or speaking invitation.
+| Project | Role | Focus |
+| --- | --- | --- |
+| [Apache Fesod](https://github.com/apache/fesod) | PMC Chair | High-performance spreadsheet processing without large-file OOM failures |
+| [Apache OzHera](https://github.com/apache/ozhera) | Committer | Cloud-native application observability |
+| [Apache Seata](https://github.com/apache/incubator-seata) | Committer | Distributed transaction infrastructure |
+| [EasyExcel](https://github.com/alibaba/easyexcel) | Core Maintainer | Java spreadsheet ecosystem and large-file processing |
 
-[Website](https://psxjoy.com) · [LinkedIn](https://www.linkedin.com/in/shu-xin-pan/) · [X](https://x.com/psxjoy)
+My open-source work also covers release management, security response, licensing, Apache incubation, contributor review, and long-term community governance.
 
-<details>
-<summary>Open-source activity</summary>
+## Building at the Java × AI Boundary
+
+I am applying lessons from distributed systems and open-source maintenance to the next generation of AI-native developer infrastructure.
+
+- [Nubase](https://github.com/OtterMind/Nubase) — a self-hostable backend for AI-generated applications, combining Memory, Database, Storage, and Auth
+- [py-coding-agent](https://github.com/psxjoy/py-coding-agent) — a compact terminal coding agent exploring tool use, agent loops, and context management
+- AI memory systems, Java-based AI applications, and reliable agent execution
+
+The goal is simple: make AI-generated software easier to operate, inspect, secure, and evolve.
+
+## Speaking & Community
+
+I speak at open-source and developer conferences about Apache project incubation, releases, community governance, Java infrastructure, and practical AI engineering.
+
+View my talks and speaker profile on [Sessionize](https://sessionize.com/shu-xin-pan/).
+
+## Open-Source Activity
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10711694" target="_blank">
   <picture>
@@ -37,4 +68,12 @@ I speak about Apache incubation, release reviews, and community governance. You 
   </picture>
 </a>
 
-</details>
+## Connect
+
+- Website: [psxjoy.com](https://psxjoy.com)
+- Speaking: [Sessionize](https://sessionize.com/shu-xin-pan/)
+- X: [@psxjoy](https://x.com/psxjoy)
+- LinkedIn: [Shuxin Pan](https://www.linkedin.com/in/shu-xin-pan/)
+- Email: [psxjoy@apache.org](mailto:psxjoy@apache.org)
+
+I am always open to meaningful technical discussions, open-source collaboration, speaking opportunities, and ambitious infrastructure challenges.
